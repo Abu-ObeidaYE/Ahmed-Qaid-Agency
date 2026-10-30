@@ -41,7 +41,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "______VIP__38ae714b.jpg",
     name: "جمام سوبر VIP ملوكي",
     badge: "نخب أول VIP",
-    image: "/assets/aistudio/______VIP__38ae714b.jpg",
+    image: "./assets/aistudio/______VIP__38ae714b.jpg",
     description: "شدة جمام عودي أحمر غض نخب أول، أوراق ندية مخملية مصفوفة بعناية للمناسبات والجلسات الفاخرة.",
     region: "مزارع النخبة الخاصة",
     quality: "سوبر VIP قطاف فجر"
@@ -51,7 +51,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "_____VIP__0603ecfa.jpg",
     name: "جمام ملوكي فاخر VIP",
     badge: "مقرط VIP ملوكي",
-    image: "/assets/aistudio/_____VIP__0603ecfa.jpg",
+    image: "./assets/aistudio/_____VIP__0603ecfa.jpg",
     description: "طبقات جمام أحمر عودي مصفوف ومقرط بعناية فائقة، مغلف بغطاء عازل يحفظ الرطوبة والنضارة.",
     region: "الجراحي ووديانها",
     quality: "نخب خاص لكبار الضيوف"
@@ -61,7 +61,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "_____________649b9115.jpg",
     name: "مقرط جمام أحمر عودي",
     badge: "عودي أصيل",
-    image: "/assets/aistudio/_____________649b9115.jpg",
+    image: "./assets/aistudio/_____________649b9115.jpg",
     description: "عود أحمر طري ندي، مقرط يدوي محكم ومصفى من القشور والشوائب، كيف رائق ونظيف.",
     region: "مزارع تهامة وشبوة",
     quality: "طازج قطاف أول"
@@ -71,7 +71,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "____________d1366912.jpg",
     name: "جمام جراحي نخب أول",
     badge: "أصالة تهامة",
-    image: "/assets/aistudio/____________d1366912.jpg",
+    image: "./assets/aistudio/____________d1366912.jpg",
     description: "إرسالية جراحية طازجة، شدات متناسقة الرؤوس ونكهة تهامية محبوبة لدى كافة الزبائن.",
     region: "فرع الجراحي",
     quality: "فرز يومي ممتاز"
@@ -81,7 +81,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "__________770647d1.jpg",
     name: "جمام شبواني أصيل",
     badge: "كيف ثابت يدوم",
-    image: "/assets/aistudio/__________770647d1.jpg",
+    image: "./assets/aistudio/__________770647d1.jpg",
     description: "جمام شبواني عودي ذو طعم غني وقوة كيف ممتدة، أوراق متماسكة تتحمل النقل والسفر.",
     region: "مرتفعات شبوة",
     quality: "نخب شبواني مختار"
@@ -91,7 +91,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "___________baa75088.jpg",
     name: "مقرط جمام أحمر فاخر",
     badge: "حبة يد متقنة",
-    image: "/assets/aistudio/___________baa75088.jpg",
+    image: "./assets/aistudio/___________baa75088.jpg",
     description: "حبة يد كاملة من الجمام الأحمر العودي الغض، مقرطة بغلاف أزرق تقليدي للحفاظ على طراوة العود.",
     region: "الحديدة وبيت الفقيه",
     quality: "غض ندي 100%"
@@ -101,7 +101,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "____________241d1442.jpg",
     name: "جمام عودي غض ندي",
     badge: "براعم طرية",
-    image: "/assets/aistudio/____________241d1442.jpg",
+    image: "./assets/aistudio/____________241d1442.jpg",
     description: "تفاصيل الرؤوس والعيدان الحمراء الطرية مع أوراق خضراء يانعة، سريعة التخمير والرطوبة في الفم.",
     region: "المصبرية والجراحي",
     quality: "قطفة الفجر الباكر"
@@ -111,7 +111,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     filename: "________________291a9f6b.jpg",
     name: "جمام ذهبي أصفر ملوكي",
     badge: "نادر ومميز",
-    image: "/assets/aistudio/________________291a9f6b.jpg",
+    image: "./assets/aistudio/________________291a9f6b.jpg",
     description: "توليفة نادرة من البراعم الصفراء المخضرة الندية على عيدان عودية مفرزة حبة حبة لأهل الذوق الرفيع.",
     region: "قمم الجبال الخاصة",
     quality: "نخب النخبة الملكي"
